@@ -1,0 +1,31 @@
+body {
+  background-color: #FAEBD7;
+  text-align: center;
+}
+
+#author {
+  font-size: 15px;
+  transform: translateX(150px);
+}
+
+#text {
+  font-size: 30px;
+}
+
+.icon {
+  font-size: 30px;
+  margin: 20px;
+  transform: translateX(-160px) translateY(-10px);
+  color: #FF8C00;
+}
+
+button {
+  background-color: #FF8C00;
+  transform: translateX(150px) translateY(35px);
+  width: 100px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+}
